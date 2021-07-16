@@ -1,4 +1,4 @@
-# wcs-324
+# Video game using OpenGL
 
 university coursework on computer graphics, tetris-clone using opengl
 
